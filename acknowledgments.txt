@@ -1,0 +1,7 @@
+Discussions: None. (Note: Update this if you collaborated with any classmates).
+
+Libraries: The standard Python csv library was used to format and write the calculated data into the required .tsv files.
+
+Generative AI: Gemini was utilized to simulate the algorithms, verify the resulting state values for the search tree, Nim game, and maze, and generate the Python code to export the .tsv files.
+
+Transcript link: https://gemini.google.com/app/3fd8457037c080f6 
